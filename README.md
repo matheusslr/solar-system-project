@@ -21,7 +21,7 @@ Caso o usuário seja utilizador do sistema operacional Windows e deseje executar
 <h2>Executando o código</h2>
 
 
-    g++ -o main -lopengl32 -lglu32
+    g++ main.cpp -o main -lopengl32 -lglu32
 
 
 <h2>Controles</h2>
